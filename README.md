@@ -6,5 +6,7 @@ The risk lies with you. Hardware that doesn't work is almost nonexistent.
 
 
 
-![Screenshot](https://ibb.co/qMV6hSm)
+ 
+
+![alt tag]([http://url/to/img.png](https://ibb.co/qMV6hSm)
 
